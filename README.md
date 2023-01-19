@@ -1,1 +1,30 @@
 crong man that codes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###### This README is licensed under ARR (All-Rights-Reserved) and any infringement will be taken action upon
