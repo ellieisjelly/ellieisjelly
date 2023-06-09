@@ -1,4 +1,4 @@
-crong man that codes
+crong woman that codes
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caiomgt&theme=bear"> 
