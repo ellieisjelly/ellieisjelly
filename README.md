@@ -1,8 +1,8 @@
 crong woman that codes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiomgt&theme=bear"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomgt&layout=compact&theme=bear">
+  <img src="https://github-readme-stats.vercel.app/api?username=ellieisjelly&theme=bear"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellieisjelly&layout=compact&theme=bear">
 </p>
 
 
