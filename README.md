@@ -1,8 +1,8 @@
 crong woman that codes
 
 <p align="center">
-  <img src="readme.caiomgt.com/api?username=ellieisjelly&theme=bear"> 
-  <img src="readme.caiomgt.com/api/top-langs/?username=ellieisjelly&layout=compact&theme=bear">
+  <img src="https://readme.caiomgt.com/api?username=ellieisjelly&theme=bear"> 
+  <img src="https://readme.caiomgt.com/api/top-langs/?username=ellieisjelly&layout=compact&theme=bear">
 </p>
 
 ![Metrics](/github-metrics.svg)
