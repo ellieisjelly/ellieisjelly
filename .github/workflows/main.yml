@@ -20,3 +20,4 @@ jobs:
           plugin_code_days: 7
           plugin_code_visibility: all
           plugin_code_load: 400
+          plugin_code_lines: 24
